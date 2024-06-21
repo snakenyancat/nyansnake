@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcbd0b386846ac242bcdc72c3a440138, type: 3}
+  m_Name: TacNaynSkin
+  m_EditorClassIdentifier: 
+  <UIColor>k__BackingField: {r: 1, g: 1, b: 1, a: 1}
+  <BodyAnimationController>k__BackingField: {fileID: 9100000, guid: 4aeff595834c53e4e864e2a26b1e2cd9, type: 2}
+  <TailSpriteShape>k__BackingField: {fileID: 11400000, guid: 0a2cb2781d628764e83ce25ec473dc29, type: 2}
+  <StarFieldColor>k__BackingField: {r: 0.5176471, g: 0.03529412, b: 0.07058824, a: 1}
+  <StarAnimationController>k__BackingField: {fileID: 9100000, guid: 8b570d1d48e22ed4f8f629e903f2c834, type: 2}
+  <AudioClip>k__BackingField: {fileID: 8300000, guid: d778bf56c0a8870469509201e2de95fe, type: 3}
+  <Locked>k__BackingField: 0
+  <Price>k__BackingField: 0

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bcbd0b386846ac242bcdc72c3a440138, type: 3}
+  m_Name: GameBoySkin
+  m_EditorClassIdentifier: 
+  <UIColor>k__BackingField: {r: 1, g: 1, b: 1, a: 1}
+  <BodyAnimationController>k__BackingField: {fileID: 9100000, guid: 9a1e0ee14b27a20499a2f5fc81c57568, type: 2}
+  <TailSpriteShape>k__BackingField: {fileID: 11400000, guid: f15e1e6bf55b207439b617a3d02fc669, type: 2}
+  <StarFieldColor>k__BackingField: {r: 0, g: 0.2, b: 0.4, a: 1}
+  <StarAnimationController>k__BackingField: {fileID: 9100000, guid: 6e7da70a03f791a4cb2e4d7256c614d6, type: 2}
+  <AudioClip>k__BackingField: {fileID: 8300000, guid: d031232be6eb39b4dba8266f0d1c240f, type: 3}
